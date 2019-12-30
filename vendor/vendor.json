@@ -3,6 +3,12 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "E4N+VMxqLnEkvgR9/515UrH2NEA=",
+			"path": "github.com/KyleBanks/depth",
+			"revision": "b7f67b6d8d5f169cc58aa195df333dc0b353d6b3",
+			"revisionTime": "2019-07-19T14:55:26Z"
+		},
+		{
 			"checksumSHA1": "l1dgFJfzGLG/2AEPyt6ADsnVLPQ=",
 			"path": "github.com/PuerkitoBio/goquery",
 			"revision": ""
@@ -54,6 +60,12 @@
 			"revisionTime": "2018-07-03T09:17:08Z"
 		},
 		{
+			"checksumSHA1": "GAHho8qMLbDfGoD4w7SX7ZRT56U=",
+			"path": "github.com/gin-gonic/gin/internal/json",
+			"revision": "1a1cf655bd72f769e680270f2d39e43f1b82b2ad",
+			"revisionTime": "2019-10-15T06:25:55Z"
+		},
+		{
 			"checksumSHA1": "woO1qIxIeQ1bcbPSiMfAKk3r4xg=",
 			"path": "github.com/gin-gonic/gin/json",
 			"revision": "85221af84cf6ee99dc900bc41912abc09acfc1b5",
@@ -88,6 +100,24 @@
 			"path": "github.com/go-openapi/swag",
 			"revision": "2b0bd4f193d011c203529df626a65d63cb8a79e8",
 			"revisionTime": "2018-07-03T15:22:19Z"
+		},
+		{
+			"checksumSHA1": "NsLphrlxGA/Ao+hIbk8qsZtXhT4=",
+			"path": "github.com/go-playground/locales",
+			"revision": "630ebbb602847eba93e75ae38bbc7bb7abcf1ff3",
+			"revisionTime": "2019-04-30T15:33:29Z"
+		},
+		{
+			"checksumSHA1": "6xgFcEYVu7ZWVUeK7Q3gPLJ8h4s=",
+			"path": "github.com/go-playground/locales/currency",
+			"revision": "630ebbb602847eba93e75ae38bbc7bb7abcf1ff3",
+			"revisionTime": "2019-04-30T15:33:29Z"
+		},
+		{
+			"checksumSHA1": "hplgY2pZFLa3jQpcSs9wTfjkk88=",
+			"path": "github.com/go-playground/universal-translator",
+			"revision": "71201497bace774495daed26a3874fd339e0b538",
+			"revisionTime": "2017-03-27T19:17:03Z"
 		},
 		{
 			"checksumSHA1": "OaECjBPfByj/uEEGFqFhqK0Kgzw=",
@@ -174,6 +204,12 @@
 			"revisionTime": "2018-03-08T03:36:59Z"
 		},
 		{
+			"checksumSHA1": "y/oHD407w+bV0NPF5lFQPaFbWQ0=",
+			"path": "github.com/leodido/go-urn",
+			"revision": "a0f5013415294bb94553821ace21a1a74c0298cc",
+			"revisionTime": "2019-10-15T22:21:48Z"
+		},
+		{
 			"checksumSHA1": "s6eyIXpJ7VAU06FM27GcEBM/5lo=",
 			"path": "github.com/lib/pq",
 			"revision": ""
@@ -187,6 +223,12 @@
 			"checksumSHA1": "ATnwV0POluBNQEMjPdylodz0oK0=",
 			"path": "github.com/lib/pq/oid",
 			"revision": ""
+		},
+		{
+			"checksumSHA1": "PStZaE3pKgMy1kk+hHB/of2FYBk=",
+			"path": "github.com/lib/pq/scram",
+			"revision": "f91d3411e481ed313eeab65ebfe9076466c39d01",
+			"revisionTime": "2019-10-11T15:32:32Z"
 		},
 		{
 			"checksumSHA1": "AYZGozgchqe4WcKH/jCZI1flnP8=",
@@ -417,10 +459,40 @@
 			"revisionTime": "2018-07-08T16:53:44Z"
 		},
 		{
+			"checksumSHA1": "LHHkpIoYHpQiBc7y0JaTmf3VbVQ=",
+			"path": "golang.org/x/tools/go/ast/astutil",
+			"revision": "7b8e75db28f4b09dc0b853eadee5b034956bcb9e",
+			"revisionTime": "2019-12-24T20:58:48Z"
+		},
+		{
+			"checksumSHA1": "GHup0BNpNT3tou3vSVk8tZjz0s8=",
+			"path": "golang.org/x/tools/go/buildutil",
+			"revision": "7b8e75db28f4b09dc0b853eadee5b034956bcb9e",
+			"revisionTime": "2019-12-24T20:58:48Z"
+		},
+		{
+			"checksumSHA1": "VQ0sTJYKkzzAvWA6zvaKD5lar0o=",
+			"path": "golang.org/x/tools/go/internal/cgo",
+			"revision": "7b8e75db28f4b09dc0b853eadee5b034956bcb9e",
+			"revisionTime": "2019-12-24T20:58:48Z"
+		},
+		{
+			"checksumSHA1": "R4e+WZeYIHsulXVgQcoyHdidlJw=",
+			"path": "golang.org/x/tools/go/loader",
+			"revision": "7b8e75db28f4b09dc0b853eadee5b034956bcb9e",
+			"revisionTime": "2019-12-24T20:58:48Z"
+		},
+		{
 			"checksumSHA1": "P/k5ZGf0lEBgpKgkwy++F7K1PSg=",
 			"path": "gopkg.in/go-playground/validator.v8",
 			"revision": "5f1438d3fca68893a817e4a66806cea46a9e4ebf",
 			"revisionTime": "2017-07-30T05:02:35Z"
+		},
+		{
+			"checksumSHA1": "cB2l6j7n1xL5FzsUowNy3hJw92A=",
+			"path": "gopkg.in/go-playground/validator.v9",
+			"revision": "cd1bd581694a11c089aea885a26247c5f783a4cf",
+			"revisionTime": "2019-09-29T22:20:42Z"
 		},
 		{
 			"checksumSHA1": "YvGWhiUeQOKChjeiN9bzUW4KLM8=",
@@ -429,5 +501,5 @@
 			"revisionTime": "2018-03-28T19:50:20Z"
 		}
 	],
-	"rootPath": "FIFA-World-Cup"
+	"rootPath": "FIFA-World-Cup-master"
 }
